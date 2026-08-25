@@ -1,0 +1,20 @@
+{
+  "name": "radar-de-oportunidades",
+  "interface": {
+    "displayName": "Me Ensina AI | Radar de Oportunidades"
+  },
+  "plugins": [
+    {
+      "name": "radar-de-oportunidades",
+      "source": {
+        "source": "local",
+        "path": "./plugins/radar-de-oportunidades"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

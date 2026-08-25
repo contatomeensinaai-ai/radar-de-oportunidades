@@ -1,0 +1,29 @@
+{
+  "name": "radar-de-oportunidades",
+  "version": "0.1.0",
+  "description": "Pesquisa e qualifica empresas públicas a partir de um Dossiê de Mercado, sem enviar mensagens automaticamente.",
+  "author": {
+    "name": "Me Ensina AI",
+    "url": "https://meensinaai.com"
+  },
+  "homepage": "https://meensinaai.com",
+  "keywords": ["prospeccao", "mercado-local", "leads", "pesquisa", "inteligencia-artificial"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Radar de Oportunidades com IA",
+    "shortDescription": "Encontre empresas alinhadas ao seu Dossiê de Mercado.",
+    "longDescription": "Transforma um Dossiê de Mercado em uma pesquisa verificável de empresas públicas, classifica aderência e entrega relatório e CSV para revisão humana.",
+    "developerName": "Me Ensina AI",
+    "category": "Productivity",
+    "capabilities": ["Interactive"],
+    "websiteURL": "https://meensinaai.com",
+    "defaultPrompt": [
+      "Use meu Dossiê de Mercado para encontrar oportunidades.",
+      "Pesquise empresas alinhadas ao meu público ideal.",
+      "Gere meu Radar de Oportunidades com evidências."
+    ],
+    "brandColor": "#D9B45B",
+    "composerIcon": "./assets/icon.png",
+    "logo": "./assets/logo.png"
+  }
+}

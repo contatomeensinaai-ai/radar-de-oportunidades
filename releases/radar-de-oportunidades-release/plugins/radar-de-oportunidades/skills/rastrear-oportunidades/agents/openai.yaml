@@ -1,0 +1,4 @@
+interface:
+  display_name: "Radar de Oportunidades com IA"
+  short_description: "Encontre empresas alinhadas ao seu Dossiê de Mercado."
+  default_prompt: "Use meu Dossiê de Mercado para pesquisar empresas públicas, qualificar oportunidades com evidências e gerar o relatório e o CSV para minha revisão."
