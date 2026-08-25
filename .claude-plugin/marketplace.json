@@ -1,0 +1,20 @@
+{
+  "name": "radar-de-oportunidades",
+  "description": "Marketplace oficial do Radar de Oportunidades com IA da Me Ensina AI.",
+  "owner": {
+    "name": "Me Ensina AI"
+  },
+  "plugins": [
+    {
+      "name": "radar-de-oportunidades",
+      "description": "Pesquisa e qualifica empresas públicas a partir de um Dossiê de Mercado, sem enviar mensagens automaticamente.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Me Ensina AI"
+      },
+      "source": "./plugins/radar-de-oportunidades",
+      "category": "productivity",
+      "tags": ["prospeccao", "mercado-local", "pesquisa", "leads"]
+    }
+  ]
+}
